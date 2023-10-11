@@ -1,7 +1,9 @@
 twitter-sentiment-analysis
 ==============================
 
-Natural Language Processing and pre-defined Embeddings in TensorFlow with sentiment140 dataset
+Natural Language Processing and pre-defined Embeddings in TensorFlow with sentiment140 dataset.
+
+All explorations (Loading, preprocessing and training process) are in the notebooks section.
 
 Project Organization
 ------------
